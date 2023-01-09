@@ -1,0 +1,18 @@
+baseURL = "https://r00driig00.github.io"
+languageCode = "es"
+title = "Mis notas y repaso del curso"
+theme = "papermod"
+
+[menu]
+  [[menu.main]]
+	identifier = "contacto"
+	name = "Contacto"
+	title = "Contacto"
+	url = "contacto"
+	weight = 0
+  [[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	title = "Posts"
+	url = "/posts/"
+	weight = 0
